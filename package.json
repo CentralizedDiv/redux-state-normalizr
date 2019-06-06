@@ -1,0 +1,27 @@
+{
+  "name": "redux-state-normalizr",
+  "version": "1.0.0",
+  "description": "lib to normalize redux into entities and manipulate them",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurherbert/redux-state-normalizr.git"
+  },
+  "keywords": [
+    "redux",
+    "normalizr"
+  ],
+  "author": "Arthur Herbert Silva Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurherbert/redux-state-normalizr/issues"
+  },
+  "homepage": "https://github.com/arthurherbert/redux-state-normalizr#readme",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
